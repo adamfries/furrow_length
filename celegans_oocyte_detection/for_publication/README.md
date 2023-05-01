@@ -34,7 +34,7 @@ INPUT DATA ORGANIZATION REQUIREMENTS:
 5. within the RAW/condition subfolders, place the chromosome tif movies in the appropriate condition folders
 
 RUNNING THE CODE:
-> python3 furrow_detection.py all_conditions/condition1
+``python3 furrow_detection.py all_conditions/condition1``
 
-where 'all_conditions' is your folder containing all conditions subfolders, 
-and 'condition1' is the subfolder for condition1 containing your cortex movies
+where ``all_conditions`` is your folder containing all conditions subfolders, 
+and ``condition1`` is the subfolder for condition1 containing your cortex movies
