@@ -40,5 +40,5 @@ where ``all_conditions`` is your folder containing all conditions subfolders,
 and ``condition1`` is the subfolder for condition1 containing your cortex movies
 
 ## KNOWN ISSUES:
-The code is sensitive to other objects in the field, so cropping out everything but the cortex
+The code is sensitive to other objects in the field, so cropping out everything outside the cortex
 is necessary for the code to work properly.
