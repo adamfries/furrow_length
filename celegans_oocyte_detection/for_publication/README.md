@@ -18,12 +18,12 @@ furrow, the code uses a single channel, single plane (MIP is useful) movies of t
 are stored into csv files and images that highlight the ingression points.
 
 ## PYTHON LIBRARIES REQUIRED:
-pandas
-scikit-image
-scipy
-numpy
-matplotlib
-tifffile
+`pandas`
+`scikit-image`
+`scipy`
+`numpy`
+`matplotlib`
+`tifffile`
 
 ## INPUT DATA ORGANIZATION REQUIREMENTS:
 
