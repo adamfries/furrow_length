@@ -41,4 +41,5 @@ and ``condition1`` is the subfolder for condition1 containing your cortex movies
 
 ## KNOWN ISSUES:
 The code is sensitive to other objects in the field, removing unwanted objects outside the cortex
-is necessary for the code to work properly. 
+is necessary for the code to work properly. Whether this is done at the scope or through image processing is
+up to you.
