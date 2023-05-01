@@ -1,7 +1,10 @@
 
 Author: Adam Fries
+
 Institution: University of Oregon
+
 email: afries2@uoregon.edu
+
 Date: 2023/05/01
 
 This code is available for free use and without guarantees. 
