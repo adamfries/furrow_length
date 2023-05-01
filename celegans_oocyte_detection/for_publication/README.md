@@ -28,9 +28,9 @@ are stored into csv files and images that highlight the ingression points.
 ## INPUT DATA ORGANIZATION REQUIREMENTS:
 
 1. create a folder for all conditions
-2. within this folder, create subfolders for each condition and a folder named 'RAW'
+2. within this folder, create subfolders for each condition and a folder named `RAW`
 3. place the single channel tif movies in the appropriate condition folders
-4. within the 'RAW' folder create subfolders with identical names to each condition folder
+4. within the `RAW` folder create subfolders with identical names to each condition folder
 5. within the RAW/condition subfolders, place the chromosome tif movies in the appropriate condition folders
 
 ## RUNNING THE CODE:
