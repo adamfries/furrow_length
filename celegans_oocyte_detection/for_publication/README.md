@@ -11,7 +11,7 @@ This code is available for free use and without guarantees.
 
 furrow_detection.py
 
-## GENRAL DESCRIPTION:
+## GENERAL DESCRIPTION:
 This code reads in a directory of single channel, single plane (grayscale) movies of C. elegans oocyte cortex
 and identifies points of ingression and their lengths for all time points. To isolate the chromosome associated 
 furrow, the code uses a single channel, single plane (MIP is useful) movies of the oocyte chromosomes. The results 
