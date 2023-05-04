@@ -1,5 +1,5 @@
 
-Author: Adam Fries and Alyssa Quiogue
+Authors: Adam Fries and Alyssa Quiogue
 
 Institution: University of Oregon
 
